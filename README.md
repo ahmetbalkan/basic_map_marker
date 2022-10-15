@@ -5,5 +5,5 @@
 
 ![1](http://ahmetbalkan.com.tr/basicmapmarker.jpg)
 
-<img src="http://ahmetbalkan.com.tr/basicmapmarker.jpg" width=50% height=50%>
+<img src="http://ahmetbalkan.com.tr/basicmapmarker.jpg" width=20%>
 
