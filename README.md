@@ -3,4 +3,4 @@
 
 ## Ekran Görüntüleri
 
-![22](http://ahmetbalkan.com.tr/basicmapmarker.jpg)
+![1](http://ahmetbalkan.com.tr/basicmapmarker.jpg)
